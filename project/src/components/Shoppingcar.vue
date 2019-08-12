@@ -86,7 +86,7 @@ export default {
     let shoplist = await this.$axios('http://10.3.132.145:3000/cart/good', { params: { tel } })
     this.shoplist = shoplist.data
     this.num = shoplist.data.num
-    console.log(shoplist.data)
+    // console.log(shoplist.data)
   }
 }
 </script>
