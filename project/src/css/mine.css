@@ -1,0 +1,75 @@
+.mineinf {
+    width: 100%;
+    height: 3.28rem;
+    background: #fff;
+}
+
+.mineinf ul {
+    display: flex;
+    align-items: center;
+    padding-top: 1.1rem;
+    padding-left: .4rem;
+    padding-right: .32rem;
+    vertical-align: middle;
+    margin-bottom: .24rem;
+}
+
+.mineinf .headimg {
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.mineinf .number {
+    padding-left: .3rem;
+    font-size: .32rem;
+}
+
+.mineinf .number p img {
+    width: .12rem;
+    height: .23rem;
+    margin-right: .1rem;
+    display: inline-block
+}
+
+.cell {
+    background: #fff;
+    margin-top: .15rem;
+}
+
+.van-cell {
+    padding: .4rem .426667rem
+}
+
+.van-cell span {
+    display: inline-block;
+    text-indent: .266667rem
+}
+
+.adress {
+    background: #fff;
+    margin-top: .15rem;
+}
+
+.shezhi {
+    background: #fff;
+    margin-top: .15rem;
+}
+
+.loginout {
+    margin-top: 0.4rem;
+    width: 90%;
+    margin: auto;
+    height: 1.2rem;
+    border-radius: 0.8rem;
+    text-align: center;
+    line-height: 1.2rem;
+    font-size: 0.4rem;
+    cursor: pointer;
+    display: block;
+    text-decoration: none;
+    background-color: #00C03C;
+    color: white;
+    margin-top: 2.4rem;
+}

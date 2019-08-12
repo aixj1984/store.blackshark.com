@@ -1,0 +1,263 @@
+.van-nav-bar__text {
+  font-size: 0.533333rem;
+  color: #000;
+}
+
+.van-nav-bar__title {
+  font-weight: bold;
+}
+
+.shop_inf {
+  padding: 0.74rem 0.74rem 0.48rem;
+  line-height: 1;
+  background: #fff;
+}
+
+.shop_inf h3 {
+  line-height: 0.48rem;
+  font-size: 0.48rem;
+  font-weight: 600;
+}
+
+.shop_inf .title {
+  padding-top: 0.15rem;
+  line-height: 1.5;
+  font-size: 0.42rem;
+  color: #7f7f7f;
+}
+
+.shop_inf .price {
+  padding-top: 0.15rem;
+  color: #3bd42e;
+  font-size: 0.42rem;
+}
+
+.shop_inf .van-cell {
+  margin-top: 0.35rem;
+  border-radius: 0.08rem;
+  overflow: hidden;
+  background: #f7f7f7;
+}
+
+.shop_inf .van-cell__title {
+  color: #3bd42e;
+}
+
+.shop_inf .permute {
+  font-size: 0.42rem;
+  color: #00c03c;
+  margin-top: 0.2rem;
+}
+
+.pic {
+  padding: 0.3rem;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  position: relative;
+}
+
+.pic .pic_img {
+  width: 2.9rem;
+  height: 2.9rem;
+  margin-right: 0.54rem;
+  background: #999;
+  border-radius: 0.16rem;
+}
+
+.pic .pic_title {
+  width: 5.333333rem;
+}
+
+.pic .pic_title h4 {
+  padding-top: 0.3rem;
+  font-size: 0.6rem;
+  color: #00c03c;
+}
+
+.pic .pic_title p {
+  padding-top: 0.2rem;
+  font-size: 0.42rem;
+}
+
+.peizhi {
+  padding-left: 0.3rem;
+  border-bottom: 1px solid #ccc;
+  padding-top: 0.34rem;
+  padding-bottom: 0.28rem;
+}
+
+.peizhi h4 {
+  margin: 0;
+  font-size: 0.28rem;
+  color: #999;
+  font-weight: 400;
+  margin-bottom: 0.2rem;
+}
+
+.peizhi p {
+  font-size: 0.24rem;
+  line-height: 0.64rem;
+  padding: 0 0.15rem;
+  border-radius: 0.133333rem;
+  display: inline-block;
+  margin-right: 0.15rem;
+  border: 1px solid #00c03c;
+  color: #00c03c;
+}
+
+.number {
+  padding-left: 0.3rem;
+  border-bottom: 1px solid #ccc;
+  padding-top: 0.34rem;
+  padding-bottom: 0.28rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.number span {
+  font-size: 0.32rem;
+}
+
+.yes {
+  width: 100%;
+  background: #00c03c;
+  font-size: 0.32rem;
+  text-align: center;
+  height: 1.333333rem;
+  line-height: 1.333333rem;
+  color: #fff;
+}
+
+.pingjia {
+  margin-top: -0.02rem;
+  padding-left: 0.3rem;
+  padding-bottom: 0.3rem;
+  background: #fff;
+}
+
+.pingjia .ren {
+  padding-top: 0.3rem;
+  border-top: 1px solid #999;
+  line-height: 0.52rem;
+  font-size: 0.28rem;
+}
+
+.pingjia .ren img {
+  margin-right: 0.2rem;
+  height: 0.52rem;
+  width: 0.52rem;
+  float: left;
+}
+
+.pingjia .title {
+  padding-top: 0.18rem;
+  line-height: 1.4;
+  padding-right: 0.3rem;
+  color: #999;
+  font-size: 0.3rem;
+}
+
+.specification {
+  width: 100%;
+}
+
+.specification .flag {
+  position: sticky;
+  top: 0;
+  margin-top: 0.15rem;
+  background: #fff;
+  height: 0.8rem;
+  display: flex;
+  padding: 0.2rem 0;
+  border-bottom: 1px solid #d7d7d7;
+  font-size: 0.24rem;
+  z-index: 9;
+}
+
+.specification .flag li {
+  flex: 1;
+  text-align: center;
+  font-size: 0.32rem;
+  line-height: 0.853333rem;
+  border-right: 1px solid #999;
+}
+
+.specification .flag .active {
+  color: #00c03c;
+}
+
+.specification .flag li:nth-child(3) {
+  border-right: none;
+}
+
+.titles {
+  text-align: center;
+  height: 1.05rem;
+  padding-top: 0.47rem;
+  padding-bottom: 0.26rem;
+  line-height: 0.92rem;
+  font-size: 0.48rem;
+}
+
+.img_box {
+  width: 100%;
+}
+
+.img_box img {
+  width: 100%;
+  display: block;
+}
+
+.canshu {
+  padding-bottom: 0.4rem;
+  background: #fff;
+  line-height: 1.4;
+  font-size: 0.32rem;
+  padding: 0.3rem;
+}
+
+.know {
+  padding-bottom: .4rem;
+  background: #fff;
+  line-height: 1.4;
+  font-size: .24rem;
+  padding: .3rem;
+  padding: 0.3rem;
+  margin-bottom: 1.4rem;
+}
+
+.know p {
+  font-size: 0.32rem;
+}
+
+.know p:first-child {
+  margin-bottom: .266667rem;
+}
+
+.foot_btn {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  z-index: 999999;
+}
+
+.foot_btn ul {
+  width: 100%;
+  display: flex;
+}
+
+.foot_btn ul li {
+  flex: 1;
+  height: 1.2rem;
+  color: #fff;
+  text-align: center;
+  line-height: 1.2rem;
+  font-size: .34rem;
+  background: #00c03c;
+}
+
+.foot_btn ul li:first-child {
+  background: #000;
+}

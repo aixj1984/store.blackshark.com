@@ -1,0 +1,106 @@
+.list {
+  margin-top: 1.183333rem;
+}
+.van-nav-bar__title {
+  font-weight: bold;
+}
+.van-nav-bar__text {
+  color: #000;
+}
+
+.btn_box {
+  position: fixed;
+  bottom: 1.45rem;
+  height: 1.2rem;
+  line-height: 1.2rem;
+  border-top: 1px solid #ccc;
+  background: #fff;
+  display: flex;
+  width: 100%;
+}
+.btn_box .input {
+  padding-left: 0.3rem;
+}
+.btn_box .input input {
+  width: 0.5rem;
+  height: 0.5rem;
+  vertical-align: middle;
+}
+.btn_box .input span {
+  vertical-align: middle;
+}
+.btn_box .price {
+  text-indent: 0.266667rem;
+  flex: 1;
+  text-align: left;
+  padding-left: 0.25rem;
+}
+.btn_box .btns {
+  background: #00c03c;
+  color: #fff;
+  width: 2.8rem;
+  position: relative;
+  text-align: center;
+}
+.hint {
+  text-align: center;
+  color: #999;
+  font-size: 0.32rem;
+  background: #f2f2f2;
+  position: fixed;
+  bottom: 2.68rem;
+  width: 100%;
+}
+
+.list {
+  width: 100%;
+}
+.item___1tPbB {
+  padding: 0.25rem 0.3rem;
+  background: #fff;
+  margin-bottom: 0.1rem;
+  display: flex;
+}
+.xuan___3iY-j {
+  width: 0.38rem;
+  margin-right: 0.32rem;
+  line-height: 1.35rem;
+}
+.list img {
+  height: 1.35rem;
+  width: 1.35rem;
+}
+.xiangxi___1qLX4 {
+  -ms-flex: 1 1;
+  flex: 1 1;
+  padding-left: 0.3rem;
+  text-align: left;
+}
+.xiangxi___1qLX4 > h1 {
+  margin: 0;
+  font-size: 0.28rem;
+}
+.xiangxi___1qLX4 > p {
+  padding-top: 0.18rem;
+  font-size: 0.24rem;
+  color: #666;
+  box-sizing: border-box;
+}
+.xiangxi___1qLX4 .jiage___3aDi9 {
+  padding-top: 0.4rem;
+  font-size: 0.24rem;
+  position: relative;
+}
+.xiangxi___1qLX4 .jiage___3aDi9 > span {
+  color: #00c03c;
+}
+.xiangxi___1qLX4 .jiage___3aDi9 > b {
+  font-weight: 400;
+  float: right;
+}
+.van-stepper {
+  display: inline-block;
+  position: absolute;
+  right: 0rem;
+  top: 0rem;
+}

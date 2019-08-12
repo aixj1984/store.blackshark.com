@@ -1,0 +1,107 @@
+.van-nav-bar__text {
+    font-size: .533333rem;
+    color: #000;
+}
+
+.van-nav-bar__title {
+    font-weight: bold;
+}
+
+
+.logo_box {
+    width: 1.52rem;
+    height: 1.52rem;
+    margin: 0.82rem auto 0;
+    margin-top: 2.466667rem;
+}
+
+.input_box {
+    width: 100%;
+    box-sizing: border-box;
+    position: relative;
+    margin-top: 0.76rem;
+    display: inline-block;
+    padding: 0 0.3rem;
+}
+
+.input_box input {
+    width: 100%;
+    font-size: 0.42rem;
+    color: #666666;
+    padding: 0.13rem 0.12rem;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #DCE1E4;
+    display: block;
+    outline: none;
+    margin: 0 0 0.58rem 0;
+}
+
+.input_box span {
+    display: block;
+    height: .433333rem;
+    font-size: .3rem;
+    text-indent: .133333rem;
+}
+
+
+.forget {
+    width: 100%;
+    padding: 0 0.3rem;
+    box-sizing: border-box;
+    margin-bottom: .366667rem;
+}
+
+.forget ul {
+    float: right;
+    height: 100%;
+    line-height: 0.34rem;
+    display: block;
+}
+
+.forget ul li {
+    color: #a3a3a3;
+    text-decoration: none;
+    position: relative;
+    display: block;
+    float: left;
+    font-size: .34rem;
+    padding: 0 0.2rem;
+}
+
+.forget ul li:first-child {
+    border-right: .013333rem solid #ccc;
+}
+
+.reg {
+    margin-top: 0.4rem;
+    width: 90%;
+    margin: auto;
+    height: 1.2rem;
+    border-radius: 0.8rem;
+    text-align: center;
+    line-height: 1.2rem;
+    font-size: 0.4rem;
+    cursor: pointer;
+    display: block;
+    text-decoration: none;
+    background-color: #00C03C;
+    color: white;
+}
+
+.login {
+    margin-top: 0.4rem;
+    width: 90%;
+    margin: auto;
+    height: 1.2rem;
+    border-radius: 0.8rem;
+    text-align: center;
+    line-height: 1.2rem;
+    font-size: 0.4rem;
+    cursor: pointer;
+    display: block;
+    text-decoration: none;
+    border: 1px solid #00C03C;
+    color: #00c03c;
+    margin-top: .4rem;
+}

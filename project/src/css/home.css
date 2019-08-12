@@ -1,0 +1,117 @@
+.img_box {
+    width: 100%;
+}
+
+.pledge {
+    background: #fff;
+    padding-top: .6rem;
+    margin-top: .65rem;
+}
+
+.pledge .icon_box {
+    width: 100%;
+}
+
+.pledge .icon_box ul {
+    width: 100%;
+    display: flex;
+}
+
+.pledge .icon_box ul li {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.pledge .icon_box ul i {
+    display: block;
+    font-size: .7rem;
+    width: .7rem;
+    height: .7rem;
+    color: #00c03c;
+}
+
+.pledge .icon_box ul p {
+    line-height: 1;
+    padding-top: .24rem;
+    color: #999;
+    font-size: .24rem;
+}
+
+.pledge h4 {
+    padding-top: 1.15rem;
+    text-align: center;
+    font-size: .55rem;
+}
+
+.pledge .time {
+    font-size: .29rem;
+    color: #999;
+    padding-top: .16rem;
+    text-align: center;
+}
+
+.pledge .service_btn {
+    background: #00c03c;
+    color: #fff;
+    border-radius: .4rem;
+    height: .8rem;
+    line-height: .8rem;
+    width: 5rem;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: .5rem;
+}
+
+.pledge .record {
+    text-align: center;
+    font-size: .22rem;
+    padding-top: .53rem;
+}
+
+.pledge .copy {
+    padding-top: .24rem;
+    padding-bottom: .4rem;
+    color: #999;
+    text-align: center;
+    font-size: .22rem;
+}
+
+.foot_btn {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background: #fff;
+    width: 100%;
+    border-top: 1px solid #ccc;
+}
+
+.foot_btn ul {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.foot_btn ul li {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: .2rem;
+}
+
+.foot_btn ul .active {
+    color: #00c03c;
+}
+
+.foot_btn ul li em {
+    display: block;
+    margin-bottom: 0.1rem;
+    line-height: 1;
+    font-size: .48rem;
+}
